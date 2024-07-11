@@ -86,5 +86,4 @@ Follow these instructions to set up the project locally.
 3. Search for users using the search bar.
 4. Start a conversation by selecting a user and sending a message.
 
-## Folder Structure
 
